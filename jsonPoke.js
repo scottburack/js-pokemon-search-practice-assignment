@@ -1,6 +1,5 @@
-{
-  "pokemons": [
-    {
+const POKEMON = [
+  {
       "height": 10,
       "weight": 130,
       "order": 2,
@@ -7327,5 +7326,5 @@
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
       }
     }
-  ]
-}
+
+]
